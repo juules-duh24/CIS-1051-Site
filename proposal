@@ -10,7 +10,8 @@ A website with sources linked.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-Hopefully I will create a website with 
+Hopefully I will create a website. It will show information. I want it to have an interactive top bar with names of pages. 
+It will be executed using cs50 harvard texteditor. That thing will also create the server for my website.
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
@@ -34,4 +35,5 @@ multiple pages that are interactive and i can click on to go to the next section
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
 I will need HTML, CSS, and javascript knowledge. I will use youtube and course guides to help me gain more knowledge. I will be doing all of the work.
+I want to find out how to fix the site so it opens up nicely and not just on the index html thing.
 
