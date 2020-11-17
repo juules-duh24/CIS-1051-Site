@@ -1,39 +1,37 @@
 # Proposal
 
 ## What will (likely) be the title of your project?
-
 Resources
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
-
-A website with sources linked.
+A website with sources linked for lower income family's
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+I'd like to have a website that basically acts as a database. Because the Harvard course runs through their text editor I will only be using that 
+and hopefully it will run the server for the site but I am not yet sure how to keep said server running.
 
-Hopefully I will create a website. It will show information. I want it to have an interactive top bar with names of pages. 
-It will be executed using cs50 harvard texteditor. That thing will also create the server for my website.
+## If planning to combine 1051's final project with another course's final project, with which other course? 
+##And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+Only using the idea from a previous course to inform the direction of this project (honors socioeconomic foundations of education in the us)
 
-## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
-
-Only using the idea from a previous course to inform the direction of this course (honors socioeconomic foundations of education in the us)
-
-
-## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+## In the world of software, most everything takes longer to implement than you expect. 
+And so it's not uncommon to accomplish less in a fixed amount of time than you hope.###
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+Single Page with a database that you can sort through based on tags of resources. So if you are looking for food pantries, you get those, health care you can find 
+that, etc. Also this is just for Philadelphia/ nearby counties.
 
-one page, simple table with links
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., 
+what do you THINK you can accomplish before the final project's deadline?###
+prettier page with more interactive features? I don't really know honestly? 
 
-### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?###
+this definitely is like not possible for me BUT it would be cool if i could use the user's location (anywhere in the states) and show what the closest resources are.
+But that would require inputting SO many different resources/ addresses it seems impossible to create even half of this.
 
-pretty single page with a better looking table 
-
-### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
-
-multiple pages that are interactive and i can click on to go to the next section
-
-## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
-
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? 
+If working with one of two classmates, who will do what?###
 I will need HTML, CSS, and javascript knowledge. I will use youtube and course guides to help me gain more knowledge. I will be doing all of the work.
-I want to find out how to fix the site so it opens up nicely and not just on the index html thing.
+I want to find out how to fix the site so it opens up nicely and not just on the index html thing. I get that you can link it with the slash at the end directing
+the computer but that's ugly. And also it would be cool to change the link too.
 
